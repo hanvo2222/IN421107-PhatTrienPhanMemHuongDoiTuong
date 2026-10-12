@@ -7,4 +7,3 @@ Mở `EduHub.Ch01.sln` bằng Visual Studio, nhấn Ctrl+F5.
 ## Kết quả
 (docs/demo1.png)
 (docs/demo2.png)
-(docs/demo3.png)
