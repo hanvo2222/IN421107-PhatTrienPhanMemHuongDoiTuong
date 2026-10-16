@@ -1,11 +1,11 @@
-# PTPMHDT-IN421107-DHCNTT24A-IT
+# PTTMHDT-IN421107-DHCNTT24A-IT
 
 Repo nộp bài tập môn **Phát triển phần mềm hướng đối tượng** (IN4211), Học kỳ 1 năm học 2026–2027.
 
 - **Trường:** Đại học Đồng Tháp, Khoa Công nghệ và Kỹ thuật
 - **Lớp:** ĐHCNTT24A-IT (IN421107)
 - **Giảng viên:** ThS. Nguyễn Tuấn Kiệt
-- **Sinh viên:** Sơn Lê Lam - 0024418698
+- **Sinh viên:** Võ Ngọc Hân - 0024418442
 
 Xuyên suốt các bài tập là hệ thống **EduHub**, quản lý Câu lạc bộ và Sự kiện sinh viên.
 
@@ -19,8 +19,8 @@ Xuyên suốt các bài tập là hệ thống **EduHub**, quản lý Câu lạc
 
 | Chương | Chủ đề | Nhánh | Pull Request |
 |--------|--------|-------|--------------|
-| Ch01 | Phân tích yêu cầu và domain modeling EduHub (user story, sơ đồ lớp, 5 domain class, console demo) | [`ch01/0024418698`](https://github.com/LeeLamm12/PTPMHDT-IN421107-DHCNTT24A-IT/tree/ch01/0024418698) | [#1](https://github.com/LeeLamm12/PTPMHDT-IN421107-DHCNTT24A-IT/pull/1) |
-| Ch02 | Refactor theo SOLID và design pattern (Factory, Decorator, Strategy, Observer) | [`feature/solid-refactor`](https://github.com/LeeLamm12/PTPMHDT-IN421107-DHCNTT24A-IT/tree/feature/solid-refactor) | [#3](https://github.com/LeeLamm12/PTPMHDT-IN421107-DHCNTT24A-IT/pull/3) |
+| Ch01 | Phân tích yêu cầu và domain modeling EduHub (user story, sơ đồ lớp, 5 domain class, console demo) | [`ch01/0024418442`](https://github.com/hanvo2222/PTTMHDT-IN421107-DHCNTT24A-IT/tree/ch01/0024418442) | [#1](https://github.com/hanvo2222/PTTMHDT-IN421107-DHCNTT24A-IT/pull/1) |
+| Ch02 | Refactor theo SOLID và design pattern (Factory, Decorator, Strategy, Observer) | [`feature/solid-refactor`](https://github.com/hanvo2222/PTTMHDT-IN421107-DHCNTT24A-IT/tree/feature/solid-refactor) | [#2](https://github.com/hanvo2222/PTTMHDT-IN421107-DHCNTT24A-IT/pull/2) |
 
 ## Cách xem bài của từng chương
 
