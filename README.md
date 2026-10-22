@@ -5,7 +5,7 @@ Repo nộp bài tập môn **Phát triển phần mềm hướng đối tượng
 - **Trường:** Đại học Đồng Tháp, Khoa Công nghệ và Kỹ thuật
 - **Lớp:** ĐHCNTT24A-IT (IN421107)
 - **Giảng viên:** ThS. Nguyễn Tuấn Kiệt
-- **Sinh viên:** Sơn Lê Lam - 0024418698
+- **Sinh viên:** Võ Ngọc Hân - 0024418442
 
 Xuyên suốt các bài tập là hệ thống **EduHub**, quản lý Câu lạc bộ và Sự kiện sinh viên.
 
